@@ -1,3 +1,3 @@
 ## Eloquent Relationship
 
-<img src=/public/Jess.jpg alt= eloquentrelation>
+<img src=../public/Jess.jpg alt= eloquentrelation>
